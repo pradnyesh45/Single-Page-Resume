@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.9.6)  16 FEB 2026 20:36
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.9.6)  17 FEB 2026 08:53
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -996,18 +996,18 @@ Package logreq Info: Writing requests to 'resume.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  22403 strings out of 475506
- 195592,1648299 words of node,token memory allocated
+ 195588,1648299 words of node,token memory allocated
  526 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 72 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:6,2:1098,3:688,4:240,5:2945,6:244,7:16908,8:2,9:1212,10:22,11:
-1351
+   avail lists: 1:5,2:1098,3:688,4:240,5:2936,6:244,7:16881,8:2,9:1212,10:22,11:
+1348
  45065 multiletter control sequences out of 65536+600000
  49 fonts using 7620999 bytes
  79i,11n,104p,1182b,799s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./SourceSansPro-Semibold.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype
 /public/fontawesome/FontAwesome.otf><./SourceSansPro-Regular.otf>
-Output written on resume.pdf (1 page, 22449 bytes).
+Output written on resume.pdf (1 page, 22440 bytes).
 
 PDF statistics: 61 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
