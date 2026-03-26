@@ -1,3 +1,3 @@
 # Single-Page-Resume
 
-Open resume.pdf file
+Open Pradnyesh_Aglawe_Resume.pdf file
