@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.9.6)  26 MAR 2026 12:03
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.9.6)  3 APR 2026 06:54
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -997,18 +997,18 @@ Package logreq Info: Writing requests to 'Pradnyesh_Aglawe_Resume.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  22404 strings out of 475506
- 195585,1648299 words of node,token memory allocated
+ 195587,1648299 words of node,token memory allocated
  526 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 72 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:4,2:1119,3:739,4:258,5:2780,6:262,7:16218,8:2,9:1275,10:22,11:
-1294
+   avail lists: 1:5,2:1098,3:727,4:252,5:2759,6:256,7:16107,8:3,9:1254,10:22,11:
+1291
  45065 multiletter control sequences out of 65536+600000
  49 fonts using 7620999 bytes
  79i,11n,104p,1182b,799s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./SourceSansPro-Semibold.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype
 /public/fontawesome/FontAwesome.otf><./SourceSansPro-Regular.otf>
-Output written on Pradnyesh_Aglawe_Resume.pdf (1 page, 21612 bytes).
+Output written on Pradnyesh_Aglawe_Resume.pdf (1 page, 21505 bytes).
 
 PDF statistics: 61 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream

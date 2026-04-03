@@ -1,3 +1,5 @@
-# Single-Page-Resume
+# Single-page resume
 
-Open Pradnyesh_Aglawe_Resume.pdf file
+[**View resume (PDF)**](./Pradnyesh_Aglawe_Resume.pdf)
+
+Source: [`resume.tex`](./resume.tex). Build locally with `./build.sh` (outputs `Pradnyesh_Aglawe_Resume.pdf`).
