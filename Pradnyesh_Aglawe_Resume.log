@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.9.6)  2 MAY 2026 17:48
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.9.6)  7 JUN 2026 22:55
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -372,7 +372,7 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \TX@cols=\count296
 \TX@ftn=\toks25
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 52.
+Package hyperref Info: Option `colorlinks' set `true' on input line 51.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/moresize/moresize.sty
 Package: moresize 1999/07/26 v1.9 (more font sizes)
@@ -792,33 +792,29 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
 
-
-LaTeX Warning: Unused global option(s):
-    [a4].
-
 (./Pradnyesh_Aglawe_Resume.aux)
 \openout1 = Pradnyesh_Aglawe_Resume.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -834,7 +830,7 @@ LaTeX Font Info:    ... okay on input line 148.
 \makeMPintoPDFobject=\count449
 \everyMPtoPDFconversion=\toks29
 )
-Package hyperref Info: Link coloring ON on input line 148.
+Package hyperref Info: Link coloring ON on input line 146.
  (./Pradnyesh_Aglawe_Resume.out) (./Pradnyesh_Aglawe_Resume.out)
 \@outlinefile=\write4
 
@@ -846,82 +842,82 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup5
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 148.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 148.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 148.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 148.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 148.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 148.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 148.
-LaTeX Font Info:    Redeclaring math accent \check on input line 148.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 148.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 148.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 148.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 148.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 148.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 146.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 146.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 146.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 146.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 146.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 146.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 146.
+LaTeX Font Info:    Redeclaring math accent \check on input line 146.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 146.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 146.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 146.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 146.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 148.
+(Font)              `operators' in the math version `normal' on input line 146.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/SourceSansPro-Regular.otf(0)/m/n on 
-input line 148.
+input line 146.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 148.
+(Font)              `operators' in the math version `bold' on input line 146.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/SourceSansPro-Regular.otf(0)/m/n on
- input line 148.
+ input line 146.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/SourceSansPro-Regular.otf(0)/m/n --> TU/SourceSansPr
-o-Regular.otf(0)/m/n on input line 148.
+o-Regular.otf(0)/m/n on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/SourceSansPro-Regular.otf(0)/m/it o
-n input line 148.
+n input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/SourceSansPro-Regular.otf(0)/b/n on
- input line 148.
+ input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/SourceSansPro-Semibold.otf(0)/m/n o
-n input line 148.
+n input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 148.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 146.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/SourceSansPro-Regular.otf(0)/m/n --> TU/SourceSansPr
-o-Regular.otf(0)/b/n on input line 148.
+o-Regular.otf(0)/b/n on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/SourceSansPro-Regular.otf(0)/b/it 
-on input line 148.
+on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/SourceSansPro-Semibold.otf(0)/b/n 
-on input line 148.
+on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 148.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 146.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
 * driver: luatex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(14.22636pt, 585.84227pt, 14.22636pt)
-* v-part:(T,H,B)=(14.22636pt, 766.51726pt, 14.22636pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=585.84227pt
-* \textheight=766.51726pt
+* h-part:(L,W,R)=(14.22636pt, 569.05515pt, 14.22636pt)
+* v-part:(T,H,B)=(14.22636pt, 816.59412pt, 14.22636pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=569.05515pt
+* \textheight=816.59412pt
 * \oddsidemargin=-58.04362pt
 * \evensidemargin=-58.04362pt
 * \topmargin=-58.04362pt
@@ -929,7 +925,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \headsep=0.0pt
 * \topskip=10.0pt
 * \footskip=0.0pt
-* \marginparwidth=65.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -957,19 +953,15 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Pradnyesh_Aglawe_Resume.bbl' found.
 
 (./Pradnyesh_Aglawe_Resume.bbl)
-Package biblatex Info: Reference section=0 on input line 148.
-Package biblatex Info: Reference segment=0 on input line 148.
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--159
-
- []
-
+Package biblatex Info: Reference section=0 on input line 146.
+Package biblatex Info: Reference segment=0 on input line 146.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 205.
+(Font)              <7> on input line 251.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 205.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 20
-5.
+(Font)              <5> on input line 251.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 25
+1.
+
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
@@ -989,7 +981,7 @@ L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `Pradnyesh_Aglawe_Resume.out' has not changed
 .
-(rerunfilecheck)             Checksum: 07217CE2EA83E33DD64175D5C4C0143F;262.
+(rerunfilecheck)             Checksum: EC35C75ADB7FA22BE14D3B8A4B8B76B8;254.
 Package logreq Info: Writing requests to 'Pradnyesh_Aglawe_Resume.run.xml'.
 
 \openout1 = Pradnyesh_Aglawe_Resume.run.xml
@@ -997,21 +989,21 @@ Package logreq Info: Writing requests to 'Pradnyesh_Aglawe_Resume.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  22404 strings out of 475506
- 195585,1648299 words of node,token memory allocated
+ 156463,1648299 words of node,token memory allocated
  526 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 72 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:4,2:1098,3:727,4:252,5:2753,6:256,7:16068,8:2,9:1254,10:22,11:
-1285
+   avail lists: 1:2,2:1070,3:700,4:258,5:2687,6:254,7:15561,8:2,9:1203,10:22,11:
+1231
  45065 multiletter control sequences out of 65536+600000
- 49 fonts using 7620999 bytes
+ 50 fonts using 7726927 bytes
  79i,11n,104p,1182b,799s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./SourceSansPro-Semibold.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype
 /public/fontawesome/FontAwesome.otf><./SourceSansPro-Regular.otf>
-Output written on Pradnyesh_Aglawe_Resume.pdf (1 page, 21498 bytes).
+Output written on Pradnyesh_Aglawe_Resume.pdf (1 page, 21308 bytes).
 
-PDF statistics: 61 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 131072)
  25 words of extra memory for PDF output out of 10000 (max. 100000000)
 
