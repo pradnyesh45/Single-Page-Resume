@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1787809178.3895 "/Users/pradnyeshaglawe/Documents/Software Projects/Pradnyesh_Aglawe_Single_Page_Resume/resume.tex" "resume.pdf" "resume" 1787809178.72752 2
-  "/Users/pradnyeshaglawe/Documents/Software Projects/Pradnyesh_Aglawe_Single_Page_Resume/resume.tex" 1787809177.53288 13662 c60a4d783b26effbe643b9a962169f1f ""
+["pdflatex"] 1787810240.96381 "/Users/pradnyeshaglawe/Documents/Software Projects/Pradnyesh_Aglawe_Single_Page_Resume/resume.tex" "resume.pdf" "resume" 1787810241.31152 2
+  "/Users/pradnyeshaglawe/Documents/Software Projects/Pradnyesh_Aglawe_Single_Page_Resume/resume.tex" 1787810240.15997 13680 3afbf51133e48d653c7d38fca703c307 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -58,8 +58,8 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1757172806 3345732 3103e83290cdc78061f12434f93363bb ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "resume.aux" 1787809178.38907 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "resume.tex" 1787809177.53288 13662 c60a4d783b26effbe643b9a962169f1f ""
+  "resume.aux" 1787810240.96338 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1787810240.15997 13680 3afbf51133e48d653c7d38fca703c307 ""
   (generated)
   "resume.aux"
   "resume.log"
